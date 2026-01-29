@@ -2,6 +2,14 @@ BSD 3-Clause License
 
 Copyright (c) 2026, ADLINK Technology Inc.
 
+SEMA Windows is licensed under the BSD 3-Clause License.
+
+All kernel-mode drivers, user-space libraries, and tools are provided
+under BSD 3-Clause unless otherwise noted.
+
+Documentation and cryptographic materials are excluded from open-source
+licensing.
+
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are met:
 
